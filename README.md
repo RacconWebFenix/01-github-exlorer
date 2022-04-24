@@ -1,1 +1,1 @@
-# 01-github-exlorer
+# 01-github-explorer
