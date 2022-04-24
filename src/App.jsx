@@ -1,5 +1,6 @@
+import { RepositoryList } from "./components/RepositoriesList";
 import "./styles/global.scss";
 
 export function App() {
-  return <h1>Hello World - Rumo a Dominação Mundial</h1>;
+  return <RepositoryList />;
 }
